@@ -1,1 +1,8 @@
-
+/xshiver
+│
+├── index.html        ← homepage with video thumbnails
+├── style.css         ← your design styles
+├── videos/
+│   ├── video1.html   ← each file shows one embedded video
+│   ├── video2.html
+│   └── video3.html
